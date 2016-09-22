@@ -1,15 +1,15 @@
 {
-  "name": "one-light-ui",
+  "name": "taz-light-ui",
   "theme": "ui",
-  "version": "1.6.1",
-  "description": "Atom One light UI theme",
+  "version": "0.0.0",
+  "description": "Atom Taz light UI theme",
   "keywords": [
     "light",
     "adaptive",
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-light-ui",
+  "repository": "https://github.com/leifmariposa/taz-light-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"

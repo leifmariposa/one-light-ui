@@ -1,4 +1,8 @@
-## One light UI theme [![Build Status](https://travis-ci.org/atom/one-light-ui.svg?branch=master)](https://travis-ci.org/atom/one-light-ui)
+## Taz light UI theme
+
+Fork of the One light UI theme where the apperance has been tweaked a little.
+
+To be used together with packages taz-fuzzy-finder and taz-tab-switcher.
 
 A light UI theme that adjusts to most Syntax themes.
 
